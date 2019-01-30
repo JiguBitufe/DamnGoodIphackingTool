@@ -1,1 +1,1 @@
-<?="Init";?>   # oh fuck this is php kekeke
+<?="Init";?>   # oh snap this is php kekeke
